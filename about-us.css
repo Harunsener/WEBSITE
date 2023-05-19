@@ -1,0 +1,14 @@
+.image .container {
+    text-align:center;
+    margin-bottom: 20px;
+  }
+  img .container {
+    max-width: 100%;
+    height:auto;}
+
+
+ .image .container{
+     background: url(sinal-de-neon-quadrado-brilhante-quadro-de-neon-roxo-e-azul-parede-de-tijolos-escuros_124343-142.avif.jpg);
+    height:100vh;
+    background-size: 100% 100%;
+    }
